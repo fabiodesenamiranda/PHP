@@ -1,0 +1,36 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h3,
+h4 {
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-top: 10px;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+  line-height: 30px;
+}
+
+button {
+  border-radius: 5px;
+  border: none;
+  color: antiquewhite;
+  background-color: #0d6efd;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
